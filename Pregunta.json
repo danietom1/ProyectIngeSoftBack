@@ -1,0 +1,5 @@
+{
+    "indicador": "Identifica las expresiones de productos de sumas ",
+    "contexto": "Una expresión Productos de Sumas -POS-, (Product Of Sums) está conformada por varios términos suma(multiplicación booleana) de literales (variable afirmada o negada) que se agrupan en un producto.",
+    "enunciado": "Dado el siguiente circuito."
+}

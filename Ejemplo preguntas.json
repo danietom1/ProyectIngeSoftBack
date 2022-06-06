@@ -1,0 +1,51 @@
+{
+    "preguntas": [
+        {
+            "respuestas": [
+                {
+                    "contenido": "Respuesta 1 prueba",
+                    "esCorrecta": true
+                },
+                {
+                    "contenido": "Respuesta 2 prueba",
+                    "esCorrecta": false
+                },
+                {
+                    "contenido": "Respuesta 3 prueba",
+                    "esCorrecta": false
+                },
+                {
+                    "contenido": "Respuesta 4 prueba",
+                    "esCorrecta": false
+                }
+            ],
+            "enunciado": "Enunciado prueba",
+            "indicador": "Indicador prueba",
+            "contexto": "Contexto prueba"
+        },
+        {
+            "respuestas": [
+                {
+                    "contenido": "Respuesta 5 prueba",
+                    "esCorrecta": false
+                },
+                {
+                    "contenido": "Respuesta 6 prueba",
+                    "esCorrecta": false
+                },
+                {
+                    "contenido": "Respuesta 7 prueba",
+                    "esCorrecta": true
+                },
+                {
+                    "contenido": "Respuesta 8 prueba",
+                    "esCorrecta": false
+                }
+            ],
+            "enunciado": "Enunciado 2 prueba",
+            "indicador": "Indicador 2 prueba",
+            "contexto": "Contexto 2 prueba"
+        }
+    ],
+    "nombreCuestionario": "Cuestionario Prueba 2"
+}
